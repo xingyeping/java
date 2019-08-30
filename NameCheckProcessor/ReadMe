@@ -1,0 +1,2 @@
+javac -encoding UTF-8 NameCheckProcessor.java
+javac -encoding UTF-8 -processor NameCheckProcessor BadCode.java
